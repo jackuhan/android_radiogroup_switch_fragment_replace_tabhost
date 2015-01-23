@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- theme -->
+    <color name="all_pages_background">#eeeeee</color>
+    <color name="actionbar_bg">#e94b4a</color>
+    <color name="actionbar_txt_white">#FFFFFF</color>
+    <color name="repost_bgcolor">#f5f5f5</color>
+    <color name="fans_orange">#eb9e71</color>
+    <color name="fans_red">#e94b4a</color>
+    <color name="fans_yellow">#fccb56</color>
+    <color name="fans_gray">#C2C0C0</color>
+    <color name="loading_text_color">#ff666666</color>
+    <color name="transparent75">#3d3d3d</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="red_selected">#ea3730</color>
+    <color name="red_unselected">#ea5749</color>
+    <color name="red_unable">#f4a58d</color>
+
+    <color name="my_black_line">#ebece9</color>
+
+    
+</resources>

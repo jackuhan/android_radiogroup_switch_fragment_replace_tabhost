@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common -->
+    <string name="btn_confirm">确定</string>
+    <string name="btn_ignore">不再提醒</string>
+    <string name="btn_confirm_yes">确认</string>
+    <string name="btn_pay">付款</string>
+    <string name="btn_clear">清空</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_modify">修改</string>
+    <string name="btn_send">发送</string>
+    <string name="dialog_call_service_text">您将拨打客服电话\n%s"</string>
+    <string name="dialog_call_service_title">温馨提示</string>
+    <string name="app_name">Jackuhan</string>
+    <string name="action_settings">设置</string>
+    <string name="tab_main">首页</string>
+    <string name="tab_my">我的</string>
+    <string name="back_more_quit">再按一次返回键退出程序</string>
+
+
+
+</resources>
